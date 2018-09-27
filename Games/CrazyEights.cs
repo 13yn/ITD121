@@ -9,6 +9,10 @@ using GameObjects;
 namespace Games {
     /// <summary>
     /// Simulate Crazy Eights rules
+    /// 
+    /// Student Name: Tong Xuan Bao
+    /// STudent ID  : n10274472
+    /// 
     /// </summary>
     public static class CrazyEights {
         public enum ActionResult {

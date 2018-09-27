@@ -5,6 +5,13 @@ using System.Windows.Forms;
 
 namespace GUI {
 
+    /// <summary>
+    /// Form of the crazy eight game
+    /// 
+    /// Student name: Hano Ravinthirakumaran
+    /// Student ID  : n10142975
+    /// 
+    /// </summary>
     public partial class Crazy_Eights_Form : Form {
 
         public Crazy_Eights_Form() {
