@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnSortHand.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnSortHand.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="btnSortHand.Location" type="System.Drawing.Point, System.Drawing">
+    <value>103, 337</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnSortHand.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="btnSortHand.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 43</value>
+  </data>
+  <data name="btnSortHand.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnSortHand.Text" xml:space="preserve">
+    <value>Sort Hand</value>
+  </data>
+  <data name="&gt;&gt;btnSortHand.Name" xml:space="preserve">
+    <value>btnSortHand</value>
+  </data>
+  <data name="&gt;&gt;btnSortHand.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSortHand.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSortHand.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblComputer.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblComputer.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="lblComputer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>732, 43</value>
+  </data>
+  <data name="lblComputer.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblComputer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 31</value>
+  </data>
+  <data name="lblComputer.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblComputer.Text" xml:space="preserve">
+    <value>Computer</value>
+  </data>
+  <data name="&gt;&gt;lblComputer.Name" xml:space="preserve">
+    <value>lblComputer</value>
+  </data>
+  <data name="&gt;&gt;lblComputer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblComputer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblComputer.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lblUser.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblUser.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="lblUser.Location" type="System.Drawing.Point, System.Drawing">
+    <value>759, 567</value>
+  </data>
+  <data name="lblUser.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblUser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 31</value>
+  </data>
+  <data name="lblUser.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblUser.Text" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="&gt;&gt;lblUser.Name" xml:space="preserve">
+    <value>lblUser</value>
+  </data>
+  <data name="&gt;&gt;lblUser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblUser.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblUser.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="tblComputer.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="tblComputer.ColumnCount" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="tblComputer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 100</value>
+  </data>
+  <data name="tblComputer.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tblComputer.RowCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tblComputer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1381, 123</value>
+  </data>
+  <data name="tblComputer.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tblComputer.Name" xml:space="preserve">
+    <value>tblComputer</value>
+  </data>
+  <data name="&gt;&gt;tblComputer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tblComputer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tblComputer.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="tblComputer.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls /&gt;&lt;Columns Styles="Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="tblUser.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left, Right</value>
+  </data>
+  <data name="tblUser.ColumnCount" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="tblUser.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 412</value>
+  </data>
+  <data name="tblUser.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tblUser.RowCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tblUser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1381, 123</value>
+  </data>
+  <data name="tblUser.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tblUser.Name" xml:space="preserve">
+    <value>tblUser</value>
+  </data>
+  <data name="&gt;&gt;tblUser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tblUser.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tblUser.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="tblUser.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls /&gt;&lt;Columns Styles="Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307,Percent,7.692307" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="picDrawPile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>711, 263</value>
+  </data>
+  <data name="picDrawPile.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="picDrawPile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 117</value>
+  </data>
+  <data name="picDrawPile.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;picDrawPile.Name" xml:space="preserve">
+    <value>picDrawPile</value>
+  </data>
+  <data name="&gt;&gt;picDrawPile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picDrawPile.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;picDrawPile.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="picDiscardPile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>851, 263</value>
+  </data>
+  <data name="picDiscardPile.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="picDiscardPile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 117</value>
+  </data>
+  <data name="picDiscardPile.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;picDiscardPile.Name" xml:space="preserve">
+    <value>picDiscardPile</value>
+  </data>
+  <data name="&gt;&gt;picDiscardPile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picDiscardPile.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;picDiscardPile.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblInstructions.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblInstructions.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="lblInstructions.Location" type="System.Drawing.Point, System.Drawing">
+    <value>977, 263</value>
+  </data>
+  <data name="lblInstructions.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblInstructions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 25</value>
+  </data>
+  <data name="lblInstructions.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lblInstructions.Text" xml:space="preserve">
+    <value>Click Deal to start the game.</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Name" xml:space="preserve">
+    <value>lblInstructions</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnDeal.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="btnDeal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>103, 263</value>
+  </data>
+  <data name="btnDeal.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="btnDeal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 43</value>
+  </data>
+  <data name="btnDeal.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnDeal.Text" xml:space="preserve">
+    <value>Deal</value>
+  </data>
+  <data name="&gt;&gt;btnDeal.Name" xml:space="preserve">
+    <value>btnDeal</value>
+  </data>
+  <data name="&gt;&gt;btnDeal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDeal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnDeal.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="fileSystemWatcher1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>79</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1579, 629</value>
+  </data>
+  <data name="cmbScenario.Items" xml:space="preserve">
+    <value>1. Normal game</value>
+  </data>
+  <data name="cmbScenario.Items1" xml:space="preserve">
+    <value>2. Computer wins</value>
+  </data>
+  <data name="cmbScenario.Items2" xml:space="preserve">
+    <value>3. User wins</value>
+  </data>
+  <data name="cmbScenario.Items3" xml:space="preserve">
+    <value>4. User flips deck</value>
+  </data>
+  <data name="cmbScenario.Items4" xml:space="preserve">
+    <value>5. Computer flips deck</value>
+  </data>
+  <data name="cmbScenario.Items5" xml:space="preserve">
+    <value>6. User plays any card when Eight is the only card discarded</value>
+  </data>
+  <data name="cmbScenario.Items6" xml:space="preserve">
+    <value>7. Computer plays any card when Eight is the only card discarded</value>
+  </data>
+  <data name="cmbScenario.Items7" xml:space="preserve">
+    <value>8. User full hand</value>
+  </data>
+  <data name="cmbScenario.Items8" xml:space="preserve">
+    <value>9. Computer hand full</value>
+  </data>
+  <data name="cmbScenario.Items9" xml:space="preserve">
+    <value>10. Nobody can play on user's turn </value>
+  </data>
+  <data name="cmbScenario.Items10" xml:space="preserve">
+    <value>11. Nobody can play on computer's turn</value>
+  </data>
+  <data name="cmbScenario.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 15</value>
+  </data>
+  <data name="cmbScenario.Size" type="System.Drawing.Size, System.Drawing">
+    <value>367, 24</value>
+  </data>
+  <data name="cmbScenario.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="cmbScenario.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;cmbScenario.Name" xml:space="preserve">
+    <value>cmbScenario</value>
+  </data>
+  <data name="&gt;&gt;cmbScenario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmbScenario.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cmbScenario.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnEndGame.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="btnEndGame.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1307, 15</value>
+  </data>
+  <data name="btnEndGame.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="btnEndGame.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 48</value>
+  </data>
+  <data name="btnEndGame.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnEndGame.Text" xml:space="preserve">
+    <value>End game</value>
+  </data>
+  <data name="&gt;&gt;btnEndGame.Name" xml:space="preserve">
+    <value>btnEndGame</value>
+  </data>
+  <data name="&gt;&gt;btnEndGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEndGame.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnEndGame.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>727, 605</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Crazy Eights</value>
+  </data>
+  <data name="&gt;&gt;fileSystemWatcher1.Name" xml:space="preserve">
+    <value>fileSystemWatcher1</value>
+  </data>
+  <data name="&gt;&gt;fileSystemWatcher1.Type" xml:space="preserve">
+    <value>System.IO.FileSystemWatcher, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Crazy_Eights_Form</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

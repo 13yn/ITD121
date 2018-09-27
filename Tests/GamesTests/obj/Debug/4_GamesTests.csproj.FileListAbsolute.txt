@@ -1,0 +1,37 @@
+H:\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csprojResolveAssemblyReference.cache
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csprojAssemblyReference.cache
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csproj.CoreCompileInputs.cache
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GamesTests.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GamesTests.pdb
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GameObjects.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Games.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GameObjects.pdb
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Games.pdb
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csproj.CopyComplete
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\GamesTests.dll
+D:\College\ITD121\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\GamesTests.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GamesTests.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GamesTests.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GameObjects.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Games.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\GameObjects.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Games.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csprojAssemblyReference.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csproj.CoreCompileInputs.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\4_GamesTests.csproj.CopyComplete
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\GamesTests.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\Tests\GamesTests\obj\Debug\GamesTests.pdb

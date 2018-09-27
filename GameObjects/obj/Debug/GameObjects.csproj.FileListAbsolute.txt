@@ -1,0 +1,18 @@
+H:\ITD121\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.dll
+H:\ITD121\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.pdb
+H:\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.dll
+H:\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.pdb
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.dll
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.pdb
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.dll
+D:\College\ITD121\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.pdb
+H:\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+H:\ITD121\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\bin\Debug\GameObjects.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GameObjects\obj\Debug\GameObjects.pdb

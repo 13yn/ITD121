@@ -1,0 +1,54 @@
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe.config
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.pdb
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.dll
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\Games.dll
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.pdb
+H:\ITD121\Card Games - Initial Solution\GUI\bin\Debug\Games.pdb
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.resources
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.exe
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.pdb
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe.config
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GUI.pdb
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.dll
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\Games.dll
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.pdb
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\Games.pdb
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.resources
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.exe
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.pdb
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Choose_Suit_Form.resources
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\College\ITD121\Card Games - Initial Solution\GUI\bin\Debug\aa-DJ\GUI.resources.dll
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Choose_Suit_Form.resources
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.aa-DJ.resources
+D:\College\ITD121\Card Games - Initial Solution\GUI\obj\Debug\aa-DJ\GUI.resources.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe.config
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\GUI.exe
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\GUI.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\aa-DJ\GUI.resources.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\Games.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\GameObjects.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\bin\Debug\Games.pdb
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.Choose_Suit_Form.resources
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.resources
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.Crazy_Eights_Form.aa-DJ.resources
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\aa-DJ\GUI.resources.dll
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.exe
+D:\College\ITD121\My project\Card Games - Initial Solution\GUI\obj\Debug\GUI.pdb
