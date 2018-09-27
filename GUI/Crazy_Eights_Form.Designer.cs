@@ -131,7 +131,6 @@
             resources.GetString("cmbScenario.Items10")});
             resources.ApplyResources(this.cmbScenario, "cmbScenario");
             this.cmbScenario.Name = "cmbScenario";
-            this.cmbScenario.SelectedIndexChanged += new System.EventHandler(this.cmbScenario_SelectedIndexChanged);
             // 
             // Crazy_Eights_Form
             // 
